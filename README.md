@@ -8,17 +8,15 @@ In this Project , we can search movies and view movies info
 here , we used https://www.omdbapi.com/ api for movie library
 component style with -tailwindcss and(daisyui)
 
-
 ## Getting Started
 
 ### Libraries and tools
 
-- React 
+- React
 - tailwindcss
 - React Router
 - daisyui
 - Node-js
-
 
 ### Running locally
 
@@ -26,22 +24,15 @@ component style with -tailwindcss and(daisyui)
 - intall dependencies 'npm install'
 - Run the server 'npm start'
 
-
-
 ## Authors
 
- names-sanket Barapatre and email-sanketbarapatre999@gmail.com
- repository = https://github.com/sanketb-14/Movie-library.git
-
-
+names-sanket Barapatre and email-sanketbarapatre999@gmail.com
+repository = https://github.com/sanketb-14/Movie-library.git
 
 ## Version History
 
--
-  - Initial Release
+- - Initial Release
 
 ## License
 
 This project is licensed under the [sanket barapatre] License
-
-
